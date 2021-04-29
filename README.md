@@ -1,4 +1,4 @@
-# Assignments-in-my-bachelor-s-degree
+# Assignments in my Bachelor's degree
 Some of homeworks and assignments in my bachelor's degree
 
 OS Lab:
