@@ -1,6 +1,6 @@
 # dupfinder - Detect and delete duplicate files
 
-I wrote this script in bash to experience making a command-line tool for Linux/UNIX environments. I learned how to make a code install itself as a binary and create a manual page for the command.
+I wrote [this script](https://github.com/hamed-ahangari/Assignments-in-my-bachelor-s-degree/blob/main/OS%20Lab/Duplication%20file%20finder%20script%20for%20unix/dupfinder_script.sh) in bash to experience making a command-line tool for Linux/UNIX environments. I learned how to make a code install itself as a binary and create a manual page for the command.
 
 ## How to use
 When you run the command with sudo rights for the first time, it will copy itself to `/usr/local/bin/dupfinder`, and you will see the below messages:
