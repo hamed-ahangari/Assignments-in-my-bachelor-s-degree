@@ -1,4 +1,4 @@
-# Visualizing steps of Bubble-sort algorithm in C
+# Visualize steps of Bubble-sort algorithm in C
 This simple code in C reads some integers from user input, then sorts them using Bubble-sort algorithm.
 
 After each step of comparing and swapping in the Bubble-sort algorithm, `print_array` function would be called to show the array and those swapped indices. Also, a sequence of stars is shown near to each number of array.
