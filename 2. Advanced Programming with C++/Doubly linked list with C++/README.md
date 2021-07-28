@@ -6,7 +6,8 @@ Steps of manipulating the list are described below.
 
 ## Step A
 1) Create a doubly linked list.
-2) Make nodes and fill them with user input.
+2) Get a sequence of character from user input.
+3) Make nodes and fill them with characters.
 
 ## Step B
 1) Insert digit "1" after each character "a" in the list.
